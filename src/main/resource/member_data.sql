@@ -1,0 +1,1 @@
+insert into member(name, age, address) values("liang", 30, "海淀区")
